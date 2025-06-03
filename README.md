@@ -3,7 +3,9 @@ Proyectos de prueba
 
 ## Simple Mario Game
 
-Este repositorio incluye un peque\u00f1o demo de un juego de Mario creado con Pygame.
+Este repositorio incluye un juego simple inspirado en Mario Bros con tres niveles.
+Al iniciar el script se descargan los sprites de un repositorio p\u00fablico en
+GitHub y se usan para animar al personaje.
 
 ### Requisitos
 - Python 3
@@ -18,4 +20,6 @@ Para iniciar el juego ejecuta:
 python simple_mario.py
 ```
 
-Usa las flechas izquierda/derecha para mover al personaje y la barra espaciadora para saltar. Pulsa \u00abEsc\u00bb o cierra la ventana para salir.
+Usa las flechas izquierda/derecha para mover al personaje y la barra
+espaciadora para saltar. Para avanzar de nivel llega hasta el bloque rojo.
+Pulsa `Esc` o cierra la ventana para salir.
